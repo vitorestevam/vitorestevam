@@ -1,5 +1,5 @@
 
-<img align="right" src="./image/pixeltrue-support-1.svg" width="350"/>
+<img align="right" src="./image/pixeltrue-support-1.svg" width="500"/>
 <br/>
 
 ### Bem vindo!👻

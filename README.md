@@ -9,4 +9,4 @@
 - ✨ Sempre buscando aprender 
 - ✉️ vitorestevam02@gmail.com
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=vitorestevam&show_icons=true">

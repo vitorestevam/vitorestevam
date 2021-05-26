@@ -9,4 +9,5 @@
 - ✉️ vitorestevam02@gmail.com
 
 ## actualy working on
-### [polarca](https://github.com/VitorEstevam/polarca)
+### [polarca 🐻‍❄️](https://github.com/VitorEstevam/polarca)
+### react pwa studies

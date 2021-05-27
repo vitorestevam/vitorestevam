@@ -1,6 +1,5 @@
 
 <img align="right" src="./image/image.svg" width="400"/>
-<br/>
 
 # Welcome!👻 
 

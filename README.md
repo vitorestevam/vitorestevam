@@ -2,12 +2,12 @@
 <img align="right" src="./image/image.svg" width="400"/>
 <br/>
 
-# Bem vindo!👻 
+# Welcome!👻 
 
-- 📚 Sistemas e mídias digitais 6/9
-- 💻 Vue.js, Flutter, Game Maker 2 e mt + 
-- ✉️ vitorestevam02@gmail.com
+### - 📚 Sistemas e mídias digitais(UFC) - 6/9
+### - 💻 js, gamemaker 2, flutter, python and more
+### - ✉️ vitorestevam02@gmail.com
 
-## actualy working on
+# actualy working on
 ### - [polarca 🐻‍❄️](https://github.com/VitorEstevam/polarca)
-### - [react pwa studies](https://github.com/VitorEstevam/pwa-deploy-2/)
+### - [react pwa deploy tests](https://github.com/VitorEstevam/pwa-deploy-2/)

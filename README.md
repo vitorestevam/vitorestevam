@@ -10,4 +10,4 @@
 
 ## actualy working on
 ### - [polarca 🐻‍❄️](https://github.com/VitorEstevam/polarca)
-### - [react pwa studies](https://github.com/VitorEstevam/pwa-deploy)
+### - [react pwa studies](https://github.com/VitorEstevam/pwa-deploy-2/)

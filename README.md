@@ -9,5 +9,4 @@
 
 # working on
 ### - [polarca 🐻‍❄️](https://github.com/VitorEstevam/polarca)
-### - [react pwa deploy tests](https://github.com/VitorEstevam/pwa-deploy-2/)
 ### - [python django rest api](https://github.com/VitorEstevam/audioguia_mauc_api)

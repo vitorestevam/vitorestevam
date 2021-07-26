@@ -4,7 +4,7 @@
 # Welcome
 
 ### - 📚 Sistemas e mídias digitais(UFC) - 6/9
-### - 💻 js, gamemaker 2, flutter, python and more
+### - 💻 flutter, python and gamemaker studio 2
 ### - ✉️ vitorestevam02@gmail.com
 
 # working on

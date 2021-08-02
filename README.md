@@ -1,18 +1,8 @@
 <div align="center" />
-<table>
-<tr>
-<td>
-
-<img src="./image/new_image.svg" width="200"/>
-
-</td>
-<td>
+<!-- <img src="./image/new_image.svg" width="200"/> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorestevam&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
-</td>
-</tr>
-</table>
 
 <div align="left" />
 

@@ -2,10 +2,7 @@
 
 <img align="right" src="./image/new_image.svg" width="300"/>
 
-
 <div align="left" />
-
-## Bem vindo! 👨‍💻
 
 ### 📚 Sistemas e mídias digitais(UFC) - 6/9
 

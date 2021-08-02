@@ -1,12 +1,12 @@
 
-<img align="right" src="./image/image.svg" width="400"/>
-<br/>
+<img align="right" src="./image/new_image.svg" width="400"/>
 
-### Bem vindo!👻 
+# Welcome
 
-- 📚 Sistemas e mídias digitais 5/9
-- 💻 Vue.js, Flutter
-- ✨ Sempre buscando aprender 
-- ✉️ vitorestevam02@gmail.com
+### - 📚 Sistemas e mídias digitais(UFC) - 6/9
+### - 💻 flutter, python and gamemaker studio 2
+### - ✉️ vitorestevam02@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=vitorestevam&show_icons=true">
+# working on
+### - [polarca 🐻‍❄️](https://github.com/VitorEstevam/polarca)
+### - [python django rest api](https://github.com/VitorEstevam/audioguia_mauc_api)

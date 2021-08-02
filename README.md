@@ -1,5 +1,6 @@
-<div align="center" />
-<!-- <img src="./image/new_image.svg" width="200"/> -->
+<!-- <div align="center" /> -->
+
+<img align="right" src="./image/new_image.svg" width="190"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorestevam&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 

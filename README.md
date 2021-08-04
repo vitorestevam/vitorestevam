@@ -6,7 +6,7 @@
 
 ### 📚 Sistemas e mídias digitais(UFC) - 6/9
 
-### 💻 Flutter, Python e Gamemaker studio 2
+### 💻 Python e Gamemaker studio 2
 
 ### ✉️ vitorestevam02@gmail.com
 

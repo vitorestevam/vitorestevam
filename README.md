@@ -6,7 +6,7 @@
 
 ### 📚 Sistemas e mídias digitais(UFC) - 6/9
 
-### 💻 Python e Gamemaker studio 2
+### 💻 Python and Gamemaker studio 2
 
 ### ✉️ vitorestevam02@gmail.com
 
@@ -14,6 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorestevam&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
-## working on
+## Working on
 
 ### - [Behaviour Tree Friends (GML Behaviour tree) 🌳](https://github.com/VitorEstevam/Behaviour-Tree-Friends)

@@ -1,6 +1,6 @@
 <div align="center" />
 
-<img align="right" src="./image/new_image.svg" width="300"/>
+<img align="right" src="./image/new_image.svg" width="400"/>
 
 <div align="left" />
 

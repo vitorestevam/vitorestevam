@@ -5,16 +5,8 @@
 <div align="left" />
 
 ### 📚 Sistemas e mídias digitais(UFC) - 6/9
+### 💻 Python e Gamemaker studio 2
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-### 💻 Having fun with *Python* and suffering a lot with *Gamemaker studio 2*
-=======
-### 💻 Python e Gamemaker studio 2
->>>>>>> parent of 0f17cbc... Update README.md
-=======
-### 💻 Python e Gamemaker studio 2
->>>>>>> parent of 0f17cbc... Update README.md
 
 ### ✉️ vitorestevam02@gmail.com
 

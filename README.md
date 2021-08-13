@@ -6,7 +6,7 @@
 
 ### 📚 Sistemas e mídias digitais(UFC) - 6/9
 
-### 💻 Python and Gamemaker studio 2
+### 💻 Having fun with Python and suffering a lot with Gamemaker studio 2
 
 ### ✉️ vitorestevam02@gmail.com
 

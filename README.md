@@ -16,5 +16,5 @@
 
 ## working on
 
-### - [GML Behaviour tree 🌳](https://github.com/VitorEstevam/Behaviour-Tree-Friends)
+### - [GML Behaviour Tree 🌳](https://github.com/VitorEstevam/Behaviour-Tree-Friends)
 ### - [Audioguia MAUC - API 🎨](https://github.com/VitorEstevam/audioguia_mauc_api)

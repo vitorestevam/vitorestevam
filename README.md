@@ -6,6 +6,7 @@
 
 ### 📚 Sistemas e mídias digitais(UFC) - 6/9
 ### 💻 Python e Gamemaker studio 2
+### 🐹 Trying to learn some GO
 
 
 ### ✉️ vitorestevam02@gmail.com
@@ -13,8 +14,3 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorestevam&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-
-## Working on
-
-### - [GML Behaviour Tree 🌳](https://github.com/VitorEstevam/Behaviour-Tree-Friends)
-### - [Audioguia MAUC - API 🎨](https://github.com/VitorEstevam/audioguia_mauc_api)

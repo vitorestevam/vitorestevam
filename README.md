@@ -1,6 +1,6 @@
 <div align="center" />
 
-<img align="right" src="./image/new_image.svg" width="400"/>
+<img align="right" src="https://github.githubassets.com/images/mona-loading-default.gif" width="400"/>
 
 <div align="left" />
 

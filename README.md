@@ -5,7 +5,7 @@
 <div align="left" />
 
 ### 📚 Sistemas e mídias digitais(UFC) - 6/9
-### 💻 Python e Gamemaker studio 2
+### 💻 Python and Gamemaker studio 2
 ### 🐹 Trying to learn some GO
 
 

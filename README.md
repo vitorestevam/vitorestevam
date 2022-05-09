@@ -1,6 +1,11 @@
 <div align="center" />
 
-<img align="right" src="https://github.githubassets.com/images/mona-loading-default.gif" width="400"/>
+<!-- <img align="right" src="https://github.githubassets.com/images/mona-loading-default.gif" width="400"/> -->
+
+<div class="flex justify-center">
+<img class="block dark:hidden" src="https://github.githubassets.com/images/mona-loading-default.gif">
+<img class="hidden dark:block" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif">
+</div>
 
 <div align="left" />
 

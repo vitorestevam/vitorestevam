@@ -4,9 +4,8 @@
 
 <div align="left" />
 
-### 📚 Sistemas e mídias digitais(UFC) - 7/9
-### 💻 Python and Gamemaker studio 2
-### 🐹 Trying to learn some GO and Dart
+### 📚 Sistemas e mídias digitais(UFC) - 8/9
+### 💻 Python, Go, Dart and Gamemaker studio 2
 ### ✉️ vitorestevam02@gmail.com
 
 <br/>

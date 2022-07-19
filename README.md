@@ -1,10 +1,6 @@
 <div align="center" />
 
-<!-- <img align="right" src="https://github.githubassets.com/images/mona-loading-default.gif" width="400"/> -->
-
-![image](https://github.githubassets.com/images/mona-loading-default.gif#gh-dark-mode-only)
-
-![image](https://github.githubassets.com/images/mona-loading-default.gif#gh-light-mode-only)
+<img align="right" src="https://github.githubassets.com/images/mona-loading-default.gif" width="400"/>
 
 <div align="left" />
 

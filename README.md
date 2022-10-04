@@ -14,4 +14,4 @@ trying to learn some unity 🕹️
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorestevam&layout=compact&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorestevam&layout=compact&langs_count=4)

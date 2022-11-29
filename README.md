@@ -4,6 +4,8 @@
 
 <div align="left" />
 
+Brazilian software and game developer
+
 - 📚 Sistemas e mídias digitais(UFC) - 9/9
 
 - 💻 Python, Go, Dart and Gamemaker studio 2

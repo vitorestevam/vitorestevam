@@ -1,17 +1,15 @@
 <div align="center" />
 
-<img align="right" src="https://github.githubassets.com/images/mona-loading-default.gif" width="350"/>
+<img align="right" src="https://github.githubassets.com/images/mona-loading-default.gif" width="300"/>
 
 <div align="left" />
 
 Brazilian software and game developer
 
-- 📚 Sistemas e mídias digitais(UFC) - 9/9
+- 🎓 Sistemas e Mídias Digitais - Universidade Federal do Ceará
 
-- 💻 Python, Go, Dart and Gamemaker studio 2
+- 💻 Go, Dart, Python, Javascript, Docker
+
+- 🎮 Gamemaker Studio 2
 
 - ✉️ vitorestevam02@gmail.com
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorestevam&layout=compact&langs_count=4)

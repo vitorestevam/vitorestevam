@@ -6,10 +6,10 @@
 
 Brazilian software and game developer
 
-- 🎓 Sistemas e Mídias Digitais - Universidade Federal do Ceará
+- 🎓 Bachelor in Systems and Digital Medias by the Federal University of Ceará
 
-- 💻 Go, Dart, Python, Javascript, Docker
-
-- 🎮 Gamemaker Studio 2
+- 💻 Go, Dart, Python, Javascript, Docker and much more
 
 - ✉️ vitorestevam02@gmail.com
+
+[![An image of @estevam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/estevam)](https://holopin.io/@estevam)
